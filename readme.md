@@ -9,7 +9,7 @@ This is where all email templates are stored. You can commit any revisions to up
 * <a href="http://mbwenger.com/email/michaeljfox/Text_Only.html" target="_blank">Text_Only</a>
 * <a href="http://mbwenger.com/email/michaeljfox/TeamFox_Text_with_Bullets.html" target="_blank">TeamFox_Text_with_Bullets</a>
 
-## Michaeljfox.org##
+## Foxtrialfinder.org##
 * <a href="http://mbwenger.com/email/foxtrialfinder/new_match_email.html" target="_blank">New Match Email</a>
 
  
