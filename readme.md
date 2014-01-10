@@ -1,8 +1,6 @@
 #Email Templates#
 This is where all email templates are stored. You can commit any revisions to update the template.
 
-test change
-
 ## Michaeljfox.org##
 * <a href="http://mbwenger.com/email/michaeljfox/Fox_Flash.html" target="_blank">Fox_Flash</a>
 * <a href="http://mbwenger.com/email/michaeljfox/Research_Roundtable.html" target="_blank">Research_Roundtable</a>
