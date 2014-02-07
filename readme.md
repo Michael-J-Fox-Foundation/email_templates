@@ -13,4 +13,7 @@ This is where all email templates are stored. You can commit any revisions to up
 * <a href="http://mbwenger.com/email/foxtrialfinder/trial_coordinator_invite.html" target="_blank">Trial Coordinator Invite</a>
 * <a href="http://mbwenger.com/email/foxtrialfinder/trial_lead_invite.html" target="_blank">Trial Lead Invite</a>
 
+## PPMI##
+* <a href="http://mbwenger.com/email/ppmi/ppmi_survey_template.html" target="_blank">Auto Genetics Survey</a>
+
  
