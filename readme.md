@@ -23,6 +23,6 @@ Click on any of the links below to preview.
 * <a href="http://mbwenger.com/email/foxtrialfinder/trial_lead_invite.html" target="_blank">Trial Lead Invite</a>
 
 ## PPMI##
-* <a href="http://mbwenger.com/email/ppmi/ppmi_survey_template.html" target="_blank">Auto Genetics Survey</a>
+* <a href="http://mbwenger.com/email/ppmi/genetics.html" target="_blank">Auto Genetics Survey</a>
 
  
