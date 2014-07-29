@@ -1,3 +1,5 @@
+<? include '../include/preview-features.php'; ?>
+
 <style type="text/css"><!--
 /***** BEST PRACTICE CSS *****/
 
@@ -284,7 +286,7 @@
 <td class="featured04image" width="370" align="left">
 					<!-- <a href="https://www.michaeljfox.org/foundation/news-detail.php?doctors-differ-on-genetic-testing-for-parkinson-vs-breast-cancer" target="_blank"> -->
 					<!-- <img style="border-style: none;" src="http://www2.michaeljfox.org/images/content/pagebuilder/Genetics.png" alt="" hspace="0" vspace="0" width="370" height="300" /> -->
-					<div style="width:370; height:300; text-decoration:none; background-color:#3c3c3c; text-align:center; vertical-align:middle; color:white; font-size:2em; display: table-cell;">370px wide x 300px high</div>
+					<div style="width:370; height:300; text-decoration:none; background-color:#3c3c3c; text-align:center; vertical-align:middle; color:white; font-size:2em; display: table-cell;">370px width x 300px height</div>
 
 					<!-- </a> -->
 				</td>
@@ -302,7 +304,7 @@
 <td class="featured04title" style="padding-left: 20px; padding-top: 15px; padding-right: 20px; padding-bottom: 15px; color: #fefefe; font-size: 21px; line-height: 1.2; letter-spacing: -1px; font-style: normal; font-family: 'Lucida Sans Unicode','Lucida Grande','Lucida Sans',Helvetica,Verdana,sans-serif;"><a style="color: #f77f00; text-decoration: none;" href="https://www.michaeljfox.org/foundation/news-detail.php?doctors-differ-on-genetic-testing-for-parkinson-vs-breast-cancer" target="_blank">Clinicians' Attitudes on Genetic Testing for Parkinson's vs. Breast Cancer</a></td>
 </tr>
 <tr>
-<td class="featured04text" style="padding-left: 20px; padding-top: 0; padding-right: 20px; padding-bottom: 20px; color: #fefefe; font-size: 14px; line-height: 21px; letter-spacing: 0; font-style: normal; font-family: 'Lucida Sans Unicode','Lucida Grande','Lucida Sans',Helvetica,Verdana,sans-serif;">The availability of disease prevention and treatment options may influence whether doctors recommend genetic testing for their patients.</td>
+	<td class="featured04text" style="padding-left: 20px; padding-top: 0; padding-right: 20px; padding-bottom: 20px; color: #fefefe; font-size: 14px; line-height: 21px; letter-spacing: 0; font-style: normal; font-family: 'Lucida Sans Unicode','Lucida Grande','Lucida Sans',Helvetica,Verdana,sans-serif;"><p>The availability of disease prevention and treatment options may influence whether doctors recommend genetic testing for their patients.</p></td>
 </tr>
 <tr>
 <td class="featured04button" style="padding-left: 20px; padding-top: 0; padding-right: 20px; padding-bottom: 10px; color: #fefefe; font-size: 14px; line-height: 21px; letter-spacing: 0; font-style: normal; font-family: 'Lucida Sans Unicode','Lucida Grande','Lucida Sans',Helvetica,Verdana,sans-serif;" align="left"><a style="color: #40b3dd;" href="https://www.michaeljfox.org/foundation/news-detail.php?doctors-differ-on-genetic-testing-for-parkinson-vs-breast-cancer" target="_blank">Read more</a></td>
@@ -389,7 +391,8 @@
 <tbody>
 <tr>
 <td class="TPC13image" style="padding: 5px; border: 1px solid #cfcfcf; background-color: #efefef;" align="center" valign="bottom">
-						<a href="https://www.michaeljfox.org/page.html?lrrk2-cohort-consortium" target="_blank"><img style="border-style: none;" src="http://www2.michaeljfox.org/images/content/pagebuilder/Researcher2.jpg" alt="" hspace="0" vspace="0" width="154" height="154" /></a>
+<!-- 						<a href="https://www.michaeljfox.org/page.html?lrrk2-cohort-consortium" target="_blank"><img style="border-style: none;" src="http://www2.michaeljfox.org/images/content/pagebuilder/Researcher2.jpg" alt="" hspace="0" vspace="0" width="154" height="154" /></a> -->
+						<div style="width:154; height:154; text-decoration:none; background-color:#3c3c3c; text-align:center; vertical-align:middle; color:white; font-size:1em; display: table-cell;">154px width <br>x <br>154px height</div>
 					</td>
 </tr>
 </tbody>
@@ -459,7 +462,8 @@
 <tbody>
 <tr>
 <td class="TPC13image" style="padding: 5px; border: 1px solid #cfcfcf; background-color: #efefef;" align="center" valign="bottom">
-						<a href="https://www.michaeljfox.org/foundation/news-detail.php?repositioning-existing-therapies-to-get-novel-parkinson-drug-leads-off-the-ground" target="_blank"><img style="border: none;" src="http://www2.michaeljfox.org/images/content/pagebuilder/Don_Frail_of_AstraZeneca.png" alt="" hspace="0" vspace="0" width="154" height="154" /></a>
+						<!-- <a href="https://www.michaeljfox.org/foundation/news-detail.php?repositioning-existing-therapies-to-get-novel-parkinson-drug-leads-off-the-ground" target="_blank"><img style="border: none;" src="http://www2.michaeljfox.org/images/content/pagebuilder/Don_Frail_of_AstraZeneca.png" alt="" hspace="0" vspace="0" width="154" height="154" /></a> -->
+												<div style="width:154; height:154; text-decoration:none; background-color:#3c3c3c; text-align:center; vertical-align:middle; color:white; font-size:1em; display: table-cell;">154px width <br>x <br>154px height</div>
 					</td>
 </tr>
 </tbody>
@@ -529,7 +533,8 @@
 <tbody>
 <tr>
 <td class="TPC13image" style="padding: 5px; border: 1px solid #cfcfcf; background-color: #efefef;" align="center" valign="bottom">
-						<a style="border: none;" href="https://www.michaeljfox.org/foundation/news-detail.php?mjff-provides-the-right-tools-to-drive-forward-parkinson-disease-research" target="_blank"><img style="border: none;" src="https://secure3.convio.net/mjff/images/content/pagebuilder/Beekers.jpg" alt="" hspace="0" vspace="0" width="154" height="154" /></a>
+						<!-- <a style="border: none;" href="https://www.michaeljfox.org/foundation/news-detail.php?mjff-provides-the-right-tools-to-drive-forward-parkinson-disease-research" target="_blank"><img style="border: none;" src="https://secure3.convio.net/mjff/images/content/pagebuilder/Beekers.jpg" alt="" hspace="0" vspace="0" width="154" height="154" /></a> -->
+						<div style="width:154; height:154; text-decoration:none; background-color:#3c3c3c; text-align:center; vertical-align:middle; color:white; font-size:1em; display: table-cell;">154px width <br>x <br>154px height</div>
 					</td>
 </tr>
 </tbody>
@@ -788,3 +793,5 @@
 </table>
 <!--  ******* END FOOTER-07 MODULE *******   -->
 <!--  END OVERALL WRAPPER TABLE   -->
+
+
