@@ -3,7 +3,7 @@ Click on any of the links below to preview.
 
 ## Michaeljfox.org##
 * <a href="http://mbwenger.com/email/michaeljfox-preview/CT_Fair_Invite.html" target="blank">CT_Fair_Invite</a>
-* <a href="http://mbwenger.com/email/michaeljfox-preview/Fox_Flash.html" target="blank">Fox_Flash</a>
+* <a href="http://mbwenger.com/email/michaeljfox-preview/Fox_Flash.php" target="blank">Fox_Flash</a>
 * <a href="http://mbwenger.com/email/michaeljfox-preview/Hot_Topics.html" target="blank">Hot_Topics</a>
 * <a href="http://mbwenger.com/email/michaeljfox-preview/Research_Roundtable.html" target="blank">Research_Roundtable</a>
 * <a href="http://mbwenger.com/email/michaeljfox-preview/TeamFox_Text_Only.html" target="blank">TeamFox_Text_Only</a>
