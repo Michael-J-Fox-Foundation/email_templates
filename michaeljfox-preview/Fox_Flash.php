@@ -618,11 +618,11 @@
 <table border="0" cellspacing="0" cellpadding="0" align="left">
 <tbody>
 <tr>
-<td class="Img05Title" style="font-family: Tahoma,Helvetica,Arial,Verdana,sans-serif; margin-top: 0; margin-bottom: 0; padding-top: 0; padding-bottom: 0px; font-size: 15px; line-height: 21px; color: #777777; letter-spacing: 0; font-weight: bold;" width="167">PD Therapeutics Conference</td>
+	<td class="Img05Title" style="font-family: Tahoma,Helvetica,Arial,Verdana,sans-serif; margin-top: 0; margin-bottom: 0; padding-top: 0; padding-bottom: 0px; font-size: 15px; line-height: 21px; color: #777777; letter-spacing: 0; font-weight: bold;" width="167"><p>PD Therapeutics Conference</p></td>
 </tr>
 <tr>
-<td class="Img05p" style="font-family: Tahoma,Helvetica,Arial,Verdana,sans-serif; margin-top: 0; margin-bottom: 0; padding-top: 10px; padding-bottom: 0; font-size: 14px; line-height: 21px; color: #777777; letter-spacing: 0; font-weight: normal;" width="167" align="left">Early registration pricing effective through July 26, 2013.<br />
-							<a style="line-height: 21px; color: #40b3dd;" href="https://www.michaeljfox.org/page.html?therapeutics-conference" target="_blank">Read More...</a>
+<td class="Img05p" style="font-family: Tahoma,Helvetica,Arial,Verdana,sans-serif; margin-top: 0; margin-bottom: 0; padding-top: 10px; padding-bottom: 0; font-size: 14px; line-height: 21px; color: #777777; letter-spacing: 0; font-weight: normal;" width="167" align="left"><p>Early registration pricing effective through July 26, 2013.</p><br />
+	<a style="line-height: 21px; color: #40b3dd;" href="https://www.michaeljfox.org/page.html?therapeutics-conference" target="_blank"><p>Read More</p></a>
 						</td>
 </tr>
 </tbody>
@@ -650,11 +650,11 @@
 <table border="0" cellspacing="0" cellpadding="0" align="left">
 <tbody>
 <tr>
-<td class="Img05Title" style="font-family: Tahoma,Helvetica,Arial,Verdana,sans-serif; margin-top: 0; margin-bottom: 0; padding-top: 0; padding-bottom: 0px; font-size: 15px; line-height: 21px; color: #777777; letter-spacing: 0; font-weight: bold;" width="167">Funding Opportunities</td>
+<td class="Img05Title" style="font-family: Tahoma,Helvetica,Arial,Verdana,sans-serif; margin-top: 0; margin-bottom: 0; padding-top: 0; padding-bottom: 0px; font-size: 15px; line-height: 21px; color: #777777; letter-spacing: 0; font-weight: bold;" width="167"><p>Funding Opportunities</p></td>
 </tr>
 <tr>
-<td class="Img05p" style="font-family: Tahoma,Helvetica,Arial,Verdana,sans-serif; margin-top: 0; margin-bottom: 0; padding-top: 10px; padding-bottom: 0; font-size: 14px; line-height: 21px; color: #777777; letter-spacing: 0; font-weight: normal;" width="167" align="left">Learn more about our available funding programs and apply now!<br />
-							<a style="line-height: 21px; color: #40b3dd;" href="https://www.michaeljfox.org/research/apply-for-grant.html" target="_blank">Read More...</a>
+	<td class="Img05p" style="font-family: Tahoma,Helvetica,Arial,Verdana,sans-serif; margin-top: 0; margin-bottom: 0; padding-top: 10px; padding-bottom: 0; font-size: 14px; line-height: 21px; color: #777777; letter-spacing: 0; font-weight: normal;" width="167" align="left"><p>Learn more about our available funding programs and apply now!</p><br />
+	<a style="line-height: 21px; color: #40b3dd;" href="https://www.michaeljfox.org/research/apply-for-grant.html" target="_blank"><p>Read More</p></a>
 						</td>
 </tr>
 </tbody>
@@ -682,11 +682,11 @@
 <table border="0" cellspacing="0" cellpadding="0" align="left">
 <tbody>
 <tr>
-<td class="Img05Title" style="font-family: Tahoma,Helvetica,Arial,Verdana,sans-serif; margin-top: 0; margin-bottom: 0; padding-top: 0; padding-bottom: 0px; font-size: 15px; line-height: 21px; color: #777777; letter-spacing: 0; font-weight: bold;" width="167">Partnering Program</td>
+<td class="Img05Title" style="font-family: Tahoma,Helvetica,Arial,Verdana,sans-serif; margin-top: 0; margin-bottom: 0; padding-top: 0; padding-bottom: 0px; font-size: 15px; line-height: 21px; color: #777777; letter-spacing: 0; font-weight: bold;" width="167"><p>Partnering Program</p></td>
 </tr>
 <tr>
-<td class="Img05p" style="font-family: Tahoma,Helvetica,Arial,Verdana,sans-serif; margin-top: 0; margin-bottom: 0; padding-top: 10px; padding-bottom: 0; font-size: 14px; line-height: 21px; color: #777777; letter-spacing: 0; font-weight: normal;" width="167" align="left">Some of our most promising projects made the first 2013 class.<br />
-							<a style="line-height: 21px; color: #40b3dd;" href="https://www.michaeljfox.org/foundation/publication-detail.html?id=477&category=7" target="_blank">Read More...</a>
+	<td class="Img05p" style="font-family: Tahoma,Helvetica,Arial,Verdana,sans-serif; margin-top: 0; margin-bottom: 0; padding-top: 10px; padding-bottom: 0; font-size: 14px; line-height: 21px; color: #777777; letter-spacing: 0; font-weight: normal;" width="167" align="left"><p>Some of our most promising projects made the first 2013 class.</p><br />
+		<a style="line-height: 21px; color: #40b3dd;" href="https://www.michaeljfox.org/foundation/publication-detail.html?id=477&category=7" target="_blank"><p>Read More</p></a>
 						</td>
 </tr>
 </tbody>
