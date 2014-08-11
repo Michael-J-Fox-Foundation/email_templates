@@ -51,8 +51,7 @@
 <tr>
 <td colspan="1"><img style="display: block;" src="http://www2.michaeljfox.org/images/foxflash/spacer.gif" alt="spacer" width="25" height="0" /></td>
 <td style="vertical-align: top;">
-<p style="text-align: Center; vertical-align: top font-size; color: #666; line-height: 21px; font-family: 'Gill Sans','Gill Sans MT','Lucida Sans',Arial,sans-serif;">
-			<img src="http://www2.michaeljfox.org/images/email_images/medels_sm.jpg" alt="Medels" width="165" />
+<p title="26 characters &amp; 6 words" contenteditable="true" style="width: 165; height:165; text-align: Center; vertical-align: middle font-size; color: #fff; line-height: 21px; font-family: 'Gill Sans','Gill Sans MT','Lucida Sans',Arial,sans-serif; background-color:#3c3c3c; /* display: table-cell; */margin-left: 25px;"> 165px width<br> 165px length
 </p>
 <blockquote><i><p style="text-align: left; font-size: 14px; color: #666; line-height: 18px; font-family: 'Gill Sans','Gill Sans MT','Lucida Sans',Arial,sans-serif;">
 "If there were a better treatment than what's available now, we'd go for it in a heartbeat. While it might not be able
