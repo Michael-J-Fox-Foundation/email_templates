@@ -2,7 +2,7 @@
 <script>
 
 $(document).ready(function(){
-	$("p,a,h1,h2,h3").each(function(){
+	$("p,a,h1,h2,h3,li").each(function(){
 		$(this).prop('contenteditable','true');
 		
 	});
