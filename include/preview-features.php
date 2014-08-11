@@ -1,13 +1,5 @@
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 <script>
-function count(){  
-  var val   = $.trim($('textarea').val()), // Remove spaces from b/e of string
-      words = val.replace(/\s+/gi, ' ').split(' ').length, // Count word-splits
-      chars = val.length;                                  // Count characters
-  if(!chars)words=0;
-
-  $('#counter').html('<br>'+words+' words and '+ chars +' characters');
-}
 
 $(document).ready(function(){
 	$("p,a,h1,h2,h3").each(function(){
