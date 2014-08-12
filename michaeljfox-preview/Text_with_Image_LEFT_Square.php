@@ -56,7 +56,7 @@
                                 <td><img style="display: block;" src="http://www2.michaeljfox.org/images/foxflash/spacer.gif" alt="spacer" width="10" height="1" /></td>
                                 <td>
   															<p style="text-align: left; color: #666; font-size: 17px; line-height: 21px; font-family: 'Gill Sans','Gill Sans MT','Lucida Sans',Arial,sans-serif;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer vel cursus velit, dictum ultrices tellus. Mauris bibendum.</p>
-  															<p style="text-align: left; color: #666; font-size: 17px; line-height: 21px; font-family: 'Gill Sans','Gill Sans MT','Lucida Sans',Arial,sans-serif;">CDonec sodales volutpat tempor. Vivamus nec quam tristique, aliquet nunc ac, luctus nisi. Suspendisse cursus lacinia neque at faucibus. Maecenas accumsan, turpis eu mattis laoreet.</p>
+  															<p style="text-align: left; color: #666; font-size: 17px; line-height: 21px; font-family: 'Gill Sans','Gill Sans MT','Lucida Sans',Arial,sans-serif;">Donec sodales volutpat tempor. Vivamus nec quam tristique, aliquet nunc ac, luctus nisi. Suspendisse cursus lacinia neque at faucibus. Maecenas accumsan, turpis eu mattis laoreet.</p>
   															</td>
   															<td><img style="display: block;" src="http://www2.michaeljfox.org/images/foxflash/spacer.gif" alt="spacer" width="30" height="1" /></td>
                                 <td>
