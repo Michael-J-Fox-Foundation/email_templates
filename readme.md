@@ -11,8 +11,8 @@ Click on any of the links below to preview.
 * <a href="http://mbwenger.com/email/michaeljfox-preview/Text_Only.php" target="blank">Text_Only</a>
 * <a href="http://mbwenger.com/email/michaeljfox-preview/Text_with_Bullets.php" target="blank">Text_with_Bullets</a>
 * <a href="http://mbwenger.com/email/michaeljfox-preview/Text_with_Image_Caption_and_Button.php" target="blank">Text_with_Image_Caption_and_Button</a>
-* <a href="http://mbwenger.com/email/michaeljfox-preview/Text_with_Image_LEFT.php" target="blank">Text_with_Image_LEFT_Square</a>
-* <a href="http://mbwenger.com/email/michaeljfox-preview/Text_with_Image_RIGHT.php" target="blank">Text_with_Image_RIGHT_Square</a>
+* <a href="http://mbwenger.com/email/michaeljfox-preview/Text_with_Image_LEFT.php" target="blank">Text_with_Image_LEFT</a>
+* <a href="http://mbwenger.com/email/michaeljfox-preview/Text_with_Image_RIGHT.php" target="blank">Text_with_Image_RIGHT</a>
 
 ## Foxtrialfinder.org##
 * <a href="http://mbwenger.com/email/foxtrialfinder-preview/trial_coordinator_invite.html" target="_blank">Trial Coordinator Invite</a>
