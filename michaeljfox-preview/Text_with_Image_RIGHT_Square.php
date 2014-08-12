@@ -74,7 +74,7 @@
   														<td><img style="display: block;" src="http://www2.michaeljfox.org/images/foxflash/spacer.gif" alt="spacer" width="30" height="1" /></td>
   															<td>
   															<p style="text-align: left; color: #666; font-size: 17px; line-height: 21px; font-family: 'Gill Sans','Gill Sans MT','Lucida Sans',Arial,sans-serif;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer vel cursus velit, dictum ultrices tellus. Mauris bibendum volutpat massa at ullamcorper. Mauris nec dolor id enim vehicula dictum. Fusce eget malesuada urna. Duis lobortis suscipit posuere.</p>
-  															<p style="text-align: left; color: #666; font-size: 17px; line-height: 21px; font-family: 'Gill Sans','Gill Sans MT','Lucida Sans',Arial,sans-serif;">Cognitive dysfunction is one of the least talked about symptoms of Parkinson's disease, but it affects an estimated 80% of PD patients.</p>
+  															<p style="text-align: left; color: #666; font-size: 17px; line-height: 21px; font-family: 'Gill Sans','Gill Sans MT','Lucida Sans',Arial,sans-serif;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer vel cursus velit, dictum ultrices tellus. Mauris bibendum volutpat massa at ullamcorper. Mauris nec dolor id enim vehicula dictum. Fusce eget malesuada urna. Duis lobortis suscipit posuere.</p>
   															</td>
   															<td><img style="display: block;" src="http://www2.michaeljfox.org/images/foxflash/spacer.gif" alt="spacer" width="30" height="1" /></td>
   														</tr>
