@@ -57,9 +57,6 @@
 "If there were a better treatment than what's available now, we'd go for it in a heartbeat. While it might not be able
 to help my husband, it could help others like him. That's something we both want."</i> -Barbara Mendell</blockquote>
 </p>
-<p style="text-align: Center; font-size: 17px; color: #666; line-height: 21px; font-family: 'Gill Sans','Gill Sans MT','Lucida Sans',Arial,sans-serif;">
-<img style="display: block;" src="http://www2.michaeljfox.org/images/foxflash/spacer.gif" alt="spacer" width="1" height="20" />
-</p>
 <p style="text-align: center; font-size: 17px; color: #666; line-height: 21px; font-family: 'Gill Sans','Gill Sans MT','Lucida Sans',Arial,sans-serif;">
 <a href="https://www.michaeljfox.org/get-involved/donation.php?fr_id=2380"><img style= "text-align: Center;" src="http://www2.michaeljfox.org/images/content/pagebuilder/Donate_blue_on_white.png" border="0" alt="Donate blue on white" width="160" /></a></p>
 </td>
