@@ -13,14 +13,10 @@ Click on any of the links below to preview.
 * <a href="http://mbwenger.com/email/michaeljfox-preview/Text_with_Image_Caption_and_Button.php" target="blank">Text_with_Image_Caption_and_Button</a>
 * <a href="http://mbwenger.com/email/michaeljfox-preview/Text_with_Image_LEFT_Square.php" target="blank">Text_with_Image_LEFT_Square</a>
 * <a href="http://mbwenger.com/email/michaeljfox-preview/Text_with_Image_RIGHT_Square.php" target="blank">Text_with_Image_RIGHT_Square</a>
-* <a href="http://mbwenger.com/email/michaeljfox-preview/Text_with_Signature.php" target="blank">Text_with_Signature</a>
-* <a href="http://mbwenger.com/email/michaeljfox-preview/Text_with_Video.php" target="blank">Text_with_Video</a>
-<!-- * <a href="http://mbwenger.com/email/michaeljfox-preview/ThinkAble.php" target="blank">ThinkAble</a> --!>
-* <a href="http://mbwenger.com/email/michaeljfox-preview/eNewsletter.php" target="blank">eNewsletter</a>
 
 ## Foxtrialfinder.org##
-* <a href="http://mbwenger.com/email/foxtrialfinder-preview/trial_coordinator_invite.php" target="_blank">Trial Coordinator Invite</a>
-* <a href="http://mbwenger.com/email/foxtrialfinder-preview/trial_lead_invite.php" target="_blank">Trial Lead Invite</a>
+* <a href="http://mbwenger.com/email/foxtrialfinder-preview/trial_coordinator_invite.html" target="_blank">Trial Coordinator Invite</a>
+* <a href="http://mbwenger.com/email/foxtrialfinder-preview/trial_lead_invite.html" target="_blank">Trial Lead Invite</a>
 
 ## PPMI##
 * <a href="http://mbwenger.com/email/ppmi-preview/genetics.php" target="_blank">Auto Genetics Survey</a>
