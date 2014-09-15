@@ -11,12 +11,13 @@
     var tmpVar = getParameterByName('cid');
     $("input#tfa_91").val(tmpVar);
     $(".supportInfo").remove();
-    $("<div style='background-color: #dddddd; color: #555555; height: 170px;padding-top: 22px;'><div class='center-footer' style='width: 100%; margin: 0 auto;'><table border='0' cellpadding='0' cellspacing='0' style='font-family: arial, sans-serif;padding: 0 8px;'><tbody><tr><td colspan='1' rowspan='1'><a href='https://www.partnersinparkinsons.org/about' style='color: #004A99; text-decoration: none; ' target='_blank'>About</a></td><td align='center' colspan='1' rowspan='1' style='color: #004A99; ' width='10'>|</td><td colspan='1' rowspan='1'><a href='https://www.partnersinparkinsons.org/contact-us' style='color: #004A99; text-decoration: none; ' target='_blank'>Contact Us</a></td><td align='center' colspan='1' rowspan='1' style='color: #004A99; ' width='10'>|</td><td colspan='1' rowspan='1'><a href='https://www.partnersinparkinsons.org/privacy-policy' style='color: #004A99; text-decoration: none; ' target='_blank'>Privacy Policy</a></td><td align='center' colspan='1' rowspan='1' style='color: #004A99; ' width='10'>|</td><td colspan='1' rowspan='1'><a href='https://www.partnersinparkinsons.org/terms-and-conditions' style='color: #004A99; text-decoration: none; ' target='_blank'>Terms of Use</a></td></tr></tbody></table><span><span style='font-family: arial,helvetica,sans-serif; font-size: 12px; '><span style='padding: 0 8px;'>&copy; 2014 The Michael J Fox Foundation for Parkinson&#39;s Research and AbbVie Inc.</span></span><span>*&nbsp;</span></span>1509492-1422403<img align='none' height='13' src='https://gallery.mailchimp.com/e6df77ba4568468be21042839/images/logo_abbvie.png' style='width: 80px; height: 13px; text-decoration: none; float: right; margin-top: 4px;' width='80' /><img align='none' height='35' src= 'https://www.michaeljfox.org/files/MJFF-footer-logo-transparent.png' style='width: 227px; height: 28px; text-decoration: none; float: right; margin-right: 8px;' width='228' /></div></div>").insertAfter("#tfa_0-WRPR");
+    $("<div style='background-color: #dddddd; color: #555555; height: 170px;padding-top: 22px;'><div class='center-footer' style='width: 100%; margin: 0 auto;'><table border='0' cellpadding='0' cellspacing='0' style='font-family: arial, sans-serif;padding: 0 8px;'><tbody><tr><td colspan='1' rowspan='1'><a href='https://www.partnersinparkinsons.org/about' style='color: #004A99; text-decoration: none; ' target='_blank'>About</a></td><td align='center' colspan='1' rowspan='1' style='color: #004A99; ' width='10'>|</td><td colspan='1' rowspan='1'><a href='https://www.partnersinparkinsons.org/contact-us' style='color: #004A99; text-decoration: none; ' target='_blank'>Contact Us</a></td><td align='center' colspan='1' rowspan='1' style='color: #004A99; ' width='10'>|</td><td colspan='1' rowspan='1'><a href='https://www.partnersinparkinsons.org/privacy-policy' style='color: #004A99; text-decoration: none; ' target='_blank'>Privacy Policy</a></td><td align='center' colspan='1' rowspan='1' style='color: #004A99; ' width='10'>|</td><td colspan='1' rowspan='1'><a href='https://www.partnersinparkinsons.org/terms-and-conditions' style='color: #004A99; text-decoration: none; ' target='_blank'>Terms of Use</a></td></tr></tbody></table><span><span style='font-family: arial,helvetica,sans-serif; font-size: 12px; '><span style='padding: 0 8px;'>&copy; 2014 The Michael J Fox Foundation for Parkinson&#39;s Research and AbbVie Inc.</span></span><span>*&nbsp;</span></span>1509492-1422403<img align='none' height='13' src='https://gallery.mailchimp.com/e6df77ba4568468be21042839/images/logo_abbvie.png' style='width: 80px; height: 13px; text-decoration: none; float: right; margin-top: 4px;' width='80' /><img align='none' height='35' src= 'https://www.michaeljfox.org/files/MJFF-footer-logo-transparent.png' style='width: 227px; height: 28px; text-decoration: none; float: right; margin-right: 8px;' width='228' /></div></div>").insertAfter(".wFormContainer");
     $("<br /><p style='font-family: arial, sans-serif;padding: 0 8px;'>Partners in Parkinson&#39;s was developed by The Michael J. Fox Foundation and AbbVie. The initiative&#39;s 2014 events  are in collaboration with National Presenting Partner The Davis Phinney Foundation and National Participating Partners The Parkinson&#39;s Action Network and the Parkinson&#39;s Disease Foundation.The Denver Partners in Parkinson&#39;s event features the collaboration of Local Presenting Partner:</p><div style='text-align: center; margin: 10px auto;'><img alt='Parkinson&#39;s Association for the Rockies' height='100' src='https://www.michaeljfox.org/files/PARlogoCMYK.JPG'></p><br /><p style='margin-bottom: 8px; font-family: arial, sans-serif; padding: 0 8px; text-align: left;'>Questions? Contact info@partnersinparkinsons.org or call 212-509-0995 ext. 322 for assistance.</p>").insertAfter(".actions");
     $(".actions").css("text-align", "center");
     $(".actions .primaryAction").css({'background-color': '#004c97', 'color': '#fff', 'font-family': 'Arial, sans-serif', 'text-transform': 'uppercase', 'padding': '6px 18px'});
     $(".actions").appendTo("#tfa_114");
     $("#tfa_114").css("border-color", "#004c97");
+    $("#tfa_114 > div ").addClass("mobile-fieldset");
     $("#tfa_0").prepend("<h3 style='font-size: 18px; font-weight: bold;font-family: Arial, sans-serif; padding: 0 8px; color: #004c97;'>Register today for Partners in Parkinson's Denver</h3>");
   });
 </script>
@@ -31,6 +32,36 @@
 <style>
 td, p {
   font-size: 14px;
+}
+.iframe-holder {
+  text-align: center; 
+  margin: 22px auto !important; 
+  width: 60% !important;
+}
+#tfa_92-D {
+  max-width: 82% !important;
+}
+@media all and (orientation:portrait) {
+  .iframe-holder {
+    text-align: center; 
+    margin: 22px auto !important; 
+    width: 100% !important;
+  }
+  .pip-banner-logo {
+    width: 100%;
+    height: inherit;
+  }
+  #tfa_36-L, #tfa_46, #tfa_46-L {
+    max-width: 275px !important;
+  }
+  .mobile-fieldset {
+    max-width: 289px !important;
+  }
+  #tfa_114 {
+    margin: 15px 0;
+    padding: 0;
+  }
+
 }
 </style>
 <script>
@@ -50,17 +81,17 @@ td, p {
   });
 </script>
 <table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td align="center" colspan="1" rowspan="1" width="100%">
-<a href="https://www.partnersinparkinsons.org" target="_self"><img alt="Partners in Parkinson's" height="154" src="https://partnersinparkinsons.secure.force.com/events/servlet/rtaImage?eid=a0XF0000006Arfm&feoid=00NF0000008xbHE&refid=0EMF0000000QClD" width="534"></a></td>
+<a href="https://www.partnersinparkinsons.org" target="_self"><img alt="Partners in Parkinson's" class="pip-banner-logo" height="154" src="https://partnersinparkinsons.secure.force.com/events/servlet/rtaImage?eid=a0XF0000006Arfm&feoid=00NF0000008xbHE&refid=0EMF0000000QClD"></a></td>
 </td><td align="left" colspan="1" rowspan="1" height="200" style="" width="98">
 </td></tr></tbody></table>
-<table border="0" cellpadding="0" cellspacing="0" width="744" style="font-family: arial, sans-serif; margin-left: 8px;"><tbody><tr><td colspan="1" rowspan="1">
+<table border="0" cellpadding="0" cellspacing="0" width="100%" style="font-family: arial, sans-serif; margin-left: 8px;"><tbody><tr><td colspan="1" rowspan="1">
 <table border="0" width="100%"><tbody><tr><td align="left" colspan="1" rowspan="1" width="78">
 
 </td><td align="left" colspan="1" rowspan="1" width="100%">
 <table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td align="left" colspan="1" rowspan="1" height="20" style="font-size: 22px; padding-bottom: 14px; font-weight: bold;" width="100%">
 Partners in Parkinson's Denver</td></tr>
 <tr><td colspan="1" rowspan="1" height="60" style="font-size: 15px; ">
-<table class="location" border="0" cellpadding="0" cellspacing="0" width="530"><tbody><tr><td colspan="1" rowspan="1" style="color: #004A99; ">
+<table class="location" border="0" cellpadding="0" cellspacing="0" ><tbody><tr><td colspan="1" rowspan="1" style="color: #004A99; ">
         LOCATION:</td><td colspan="1" rowspan="1" style="padding-left: 10px;">
         Colorado Convention Center</td></tr><tr><td colspan="1" rowspan="1" style="color: #004A99; ">
         &nbsp;</td><td colspan="1" rowspan="1" style="padding-left: 10px;">
@@ -71,10 +102,10 @@ Partners in Parkinson's Denver</td></tr>
         &nbsp;</td><td colspan="1" rowspan="1" style="padding-left: 10px;">
         8:00 a.m. – 3:30&nbsp;p.m.</td></tr></tbody></table><br/>
 
-<p style="text-align: justify; ">
+<p >
 Join us as Partners in Parkinson’s heads to Denver to provide a full day of educational seminars and panel discussions. In the short video below, hear from attendees about what they gained by attending a Partners in Parkinson&#039;s event.&nbsp;</p>
-<div class="iframe-holder" style="text-align: center; margin: 22px auto;">
-  <iframe width="560" height="315" src="//www.youtube.com/embed/5clQ3JMrOT0?rel=0" frameborder="0" allowfullscreen></iframe>
+<div class="iframe-holder">
+  <iframe width="100%" height="315" src="//www.youtube.com/embed/5clQ3JMrOT0?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
 
 <h3 style="font-size: 18px; font-weight: bold;">Event Schedule</h3>
