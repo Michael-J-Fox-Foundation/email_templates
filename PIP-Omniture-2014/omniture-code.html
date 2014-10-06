@@ -1,0 +1,23 @@
+<!-- omniture code -->
+<script src="http://svcs.abbvie.com/content/dam/analytics/external/partnersinparkinsons/analytics.js"></script>
+<!-- **** END OF ABBVIE ANALYTICS LIBRARY **** -->
+
+<script src="http://code.jquery.com/jquery-2.1.1.min.js"></script>
+
+<script>
+function getParameterByName(name) {
+    var match = RegExp('[?&]' + name + '=([^&]*)').exec(window.location.search);
+    return match && decodeURIComponent(match[1].replace(/\+/g, ' '));
+}
+$(document).ready(function(){
+  var tmpVar = getParameterByName('cid');
+  $("input[value='omniture']").val(tmpVar);
+});
+</script>
+
+<script language="JavaScript" type="text/JavaScript">
+  $(document).ready(function() {
+    var sc_pageName = "CC|LC|SiteIndex|Section|Sub-Section|Page Name";
+    _satellite.pageBottom();
+  });
+</script>
