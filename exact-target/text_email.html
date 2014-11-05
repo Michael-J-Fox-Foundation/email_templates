@@ -80,19 +80,7 @@
                                   </td>
                                   <td>
                                     <p style="text-align: left; font-size: 17px; color: #666; line-height: 21px; font-family: 'Gill Sans','Gill Sans MT','Lucida Sans',Arial,sans-serif;">
-                                      Dear
-                                      <convio:choose>
-                                        <convio:when title="Not empty" test="nempty" selected="selected">
-                                          <convio:op>
-                                            <convio:session name="1" param="first_name"></convio:session>
-                                          </convio:op>
-                                          <convio:then>
-                                            <convio:session name="1" param="first_name"></convio:session>
-                                          </convio:then>
-                                        </convio:when>
-                                        <convio:otherwise title="Empty">Friend</convio:otherwise>
-                                      </convio:choose>
-                                      ,
+                                      Dear %%First Name%%,
                                     </p>
                                     <p style="text-align: left; font-size: 17px; color: #666; line-height: 21px; font-family: 'Gill Sans','Gill Sans MT','Lucida Sans',Arial,sans-serif;">
                                       Thank you for participating in The Michael J. Fox Foundation&rsquo;s 2014
