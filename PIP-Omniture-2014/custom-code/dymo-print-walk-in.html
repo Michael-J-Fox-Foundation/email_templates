@@ -1,0 +1,140 @@
+<script src="http://labelwriter.com/software/dls/sdk/js/DYMO.Label.Framework.latest.js" type="text/javascript" charset="UTF-8"> </script>
+<script type="text/javascript" src="http://code.jquery.com/jquery-1.11.2.min.js"></script>
+<script type="text/javascript">
+	//----------------------------------------------------------------------------
+	//
+	//  $Id: PreviewAndPrintLabel.js 11419 2010-04-07 21:18:22Z vbuzuev $ 
+	//
+	// Project -------------------------------------------------------------------
+	//
+	//  DYMO Label Framework
+	//
+	// Content -------------------------------------------------------------------
+	//
+	//  DYMO Label Framework JavaScript Library Samples: Print label
+	//
+	//----------------------------------------------------------------------------
+	//
+	//  Copyright (c), 2010, Sanford, L.P. All Rights Reserved.
+	//
+	//----------------------------------------------------------------------------
+	alert = function() {};
+
+	(function()
+	{
+	    // called when the document completly loaded
+	    function onload()
+	    {
+
+	        var firstName = document.getElementById("tfa_3");
+	        var lastName = document.getElementById("tfa_4");
+	        var printElement = $('input[type="submit"]');
+	        var printButton = printElement[0];
+	        // var textTextArea = document.getElementById('textTextArea');
+	        // var printButton = document.getElementById('printButton');
+
+	        // prints the label
+	        printButton.onclick = function()
+	        {
+	            try
+	            {
+	                // open label
+	                var labelXml = '<?xml version="1.0" encoding="utf-8"?>\
+<DieCutLabel Version="8.0" Units="twips">\
+	<PaperOrientation>Landscape</PaperOrientation>\
+	<Id>NameBadgeCard</Id>\
+	<PaperName>30856 Badge Card Label - offset</PaperName>\
+	<DrawCommands>\
+		<Path>\
+			<FillMode>EvenOdd</FillMode>\
+			<Line X1="3509" Y1="0" X2="3509" Y2="6000" />\
+			<LineTo X="517" Y="6000" />\
+			<Arc CenterX="432" CenterY="6000" Radius="85" StartAngle="0" EndAngle="90" />\
+			<LineTo X="0" Y="5915" />\
+			<LineTo X="0" Y="85" />\
+			<LineTo X="432" Y="85" />\
+			<Arc CenterX="432" CenterY="0" Radius="85" StartAngle="-90" EndAngle="0" />\
+			<LineTo X="3509" Y="0" />\
+			<RoundRectangle X="2969" Y="2640" Width="180" Height="720" Rx="120" Ry="120" />\
+		</Path>\
+	</DrawCommands>\
+	<ObjectInfo>\
+		<TextObject>\
+			<Name>Text</Name>\
+			<ForeColor Alpha="255" Red="0" Green="0" Blue="0" />\
+			<BackColor Alpha="0" Red="255" Green="255" Blue="255" />\
+			<LinkedObjectName></LinkedObjectName>\
+			<Rotation>Rotation0</Rotation>\
+			<IsMirrored>False</IsMirrored>\
+			<IsVariable>True</IsVariable>\
+			<HorizontalAlignment>Center</HorizontalAlignment>\
+			<VerticalAlignment>Middle</VerticalAlignment>\
+			<TextFitMode>ShrinkToFit</TextFitMode>\
+			<UseFullFontHeight>True</UseFullFontHeight>\
+			<Verticalized>False</Verticalized>\
+			<StyledText>\
+				<Element>\
+					<String>Firstname</String>\
+					<Attributes>\
+						<Font Family="Arial" Size="30" Bold="True" Italic="False" Underline="False" Strikeout="False" />\
+						<ForeColor Alpha="255" Red="0" Green="0" Blue="0" />\
+					</Attributes>\
+				</Element>\
+				<Element>\
+					<String>Firstname Lastname</String>\
+					<Attributes>\
+						<Font Family="Arial" Size="20" Bold="False" Italic="False" Underline="False" Strikeout="False" />\
+						<ForeColor Alpha="255" Red="0" Green="0" Blue="0" />\
+					</Attributes>\
+				</Element>\
+			</StyledText>\
+		</TextObject>\
+		<Bounds X="450" Y="572.598449707031" Width="5102.3623046875" Height="2681.57495117187" />\
+	</ObjectInfo>\
+</DieCutLabel>';
+	                var label = dymo.label.framework.openLabelXml(labelXml);
+
+	                // set label text
+	                var textTextArea = firstName.value + " " + lastName.value;
+	                label.setObjectText("Text", textTextArea);
+	                
+	                // select printer to print on
+	                // for simplicity sake just use the first LabelWriter printer
+	                var printers = dymo.label.framework.getPrinters();
+	                if (printers.length == 0)
+	                    throw "No DYMO printers are installed. Install DYMO printers.";
+
+	                var printerName = "";
+	                for (var i = 0; i < printers.length; ++i)
+	                {
+	                    var printer = printers[i];
+	                    if (printer.printerType == "LabelWriterPrinter")
+	                    {
+	                        printerName = printer.name;
+	                        break;
+	                    }
+	                }
+	                
+	                if (printerName == "")
+	                    throw "No LabelWriter printers found. Install LabelWriter printer";
+
+	                // finally print the label
+	                label.print(printerName);
+	            }
+	            catch(e)
+	            {
+	                alert(e.message || e);
+	            }
+	        }
+	    };
+
+	    // register onload event
+	    if (window.addEventListener)
+	        window.addEventListener("load", onload, false);
+	    else if (window.attachEvent)
+	        window.attachEvent("onload", onload);
+	    else
+	        window.onload = onload;
+
+	} ());
+</script>
